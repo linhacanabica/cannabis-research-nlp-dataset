@@ -2,7 +2,6 @@
 
 A comprehensive dataset of scientific studies on cannabis and health, classified using fine-tuned AI models.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![AI Powered](https://img.shields.io/badge/AI-LLM%20Powered-orange.svg)](https://ai.google.dev/)
 [![Data Source](https://img.shields.io/badge/Source-Leafwell-success.svg)](https://leafwell.com)
@@ -374,13 +373,9 @@ We welcome contributions from the research community:
 - **Model Performance**: Suggest classification improvements
 - **New Features**: Add functionality or export formats
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ### Usage Terms
 - Free for academic and commercial use
-- Attribution required in publications
+- Attribution required in publications (Leafwell, Linha Canabica, Gustavo Palencia)
 - Modifications and redistribution allowed
 - No warranty provided
 
