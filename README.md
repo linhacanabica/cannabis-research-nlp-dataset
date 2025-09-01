@@ -12,7 +12,7 @@ This repository contains a structured dataset of scientific literature on cannab
 
 ### Key Features
 
-- **Comprehensive Coverage**: 5000+ scientific studies on cannabis and health
+- **Comprehensive Coverage**: 7000+ scientific studies on cannabis and health
 - **AI-Powered Classification**: Fine-tuned LLM models for result categorization
 - **Quality Data Sources**: Web-scraped links from Leafwell's curated database
 - **Structured Format**: Clean CSV format ready for analysis and ML applications
