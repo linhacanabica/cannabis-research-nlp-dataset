@@ -406,6 +406,20 @@ If you use this dataset in your research, please cite:
 - **Technical Support**: [talkto@gustavospalencia.com]
 - **Issues**: [GitLab Issues Page](https://gitlab.com/[username]/cannabis-research-nlp-dataset/-/issues)
 
+## Donations
+
+If you find this collection useful and want to support the project, you can make a donation in USDT/Bitcoin or PIX Brazil:  
+
+- **USDT Address:** TTZyQ3gDxrcyfBhxaSACcTWFH1jjkToTS3
+- **Network:** TRC20
+
+- **BTC Address:** 12dgnNZYyA37neocEHDKHbu2JqzsRTpHH5
+- **Network:** BTC  
+
+Or PIX Brazil: gustavo.palencia@pague.com.gi
+
+Thank you for your support! 🙏
+
 ### Resources
 - **Documentation**: Complete guides in the `/docs` folder
 - **Examples**: Analysis notebooks in the `/notebooks` folder
