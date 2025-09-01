@@ -2,6 +2,8 @@
 
 A comprehensive dataset of scientific studies on cannabis and health, classified using fine-tuned AI models.
 
+🔗 **Access the dataset on Kaggle:** [Cannabis Research NLP Dataset](https://www.kaggle.com/datasets/gustavospalencia/cannabis-research-nlp-dataset)
+
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![AI Powered](https://img.shields.io/badge/AI-LLM%20Powered-orange.svg)](https://ai.google.dev/)
 [![Data Source](https://img.shields.io/badge/Source-Leafwell-success.svg)](https://leafwell.com)
