@@ -417,15 +417,10 @@ Or PIX Brazil: gustavo.palencia@pague.com.gi
 
 Thank you for your support! 🙏
 
-### Resources
-- **Documentation**: Complete guides in the `/docs` folder
-- **Examples**: Analysis notebooks in the `/notebooks` folder
-- **API Reference**: Programmatic access documentation
-- **Community Forum**: [Discussion Link]
-
 ## Acknowledgments
 
 - **Leafwell** for providing access to curated cannabis research database
+- **Linha Canabica** Brazil’s medicinal-cannabis marketplace with 50,000+ users, ~13,000 monthly organic visits
 - **Open Source Community** for tools and libraries used in this project
 - **Research Contributors** for validation and feedback
 - **Cannabis Research Community** for domain expertise
