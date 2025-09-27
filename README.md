@@ -14,12 +14,24 @@ This repository contains a structured dataset of scientific literature on cannab
 
 ### Key Features
 
-- **Comprehensive Coverage**: 7000+ scientific studies on cannabis and health
+- **Comprehensive Coverage**: 12,293 scientific studies on cannabis and health
 - **AI-Powered Classification**: Fine-tuned LLM models for result categorization
 - **Quality Data Sources**: Web-scraped links from Leafwell's curated database
 - **Structured Format**: Clean CSV format ready for analysis and ML applications
 - **Research-Ready**: Standardized fields for academic and clinical research
 - **Comparative Analysis**: Both pre and post fine-tuning classifications included
+
+📝 Release Notes  
+**Title: v1.0 - AI-Enhanced Metadata & Dual Classification**
+
+This dataset provides a comprehensive collection of over **12,293** scientific studies on the use of cannabis for medicinal and health purposes, expanded and refined through a specialized NLP pipeline. The core collection was built from links scraped from Leafwell's research database, with significant value added by the **Linha Canabica** team's data engineering and AI fine-tuning.
+
+The key feature of this dataset is its **Dual AI-Powered Classification** for study outcome, combined with **AI-Enhanced Metadata** for context:
+
+- `resultIA_no_fine_tunning`: The initial classification from a base Large Language Model (LLM).  
+- `resultIA_fine_tunning`: The enhanced classification from the same model after a proprietary fine-tuning process developed by Linha Canabica with human feedback.
+
+This version is the most complete, including studies from **2025** and a rigorous, granular classification of cannabinoids, conditions, and study types.
 
 ## Dataset Structure
 
