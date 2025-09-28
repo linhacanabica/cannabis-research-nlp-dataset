@@ -439,7 +439,7 @@ Thank you for your support! 🙏
 
 ---
 
-**Version**: 2.1.0  
+**Version**: 3.0  
 **Last Updated**: 2025  
 **Dataset File**: `studies_cannabis.csv`  
 **Total Studies**: 7640
